@@ -1,0 +1,121 @@
+
+
+
+
+
+------------------------------------------------------------------------------------------
+-------------------------------------15.4.2014 23:27:12----------------------------------
+------------------------------------------------------------------------------------------
+
+
+Глава ui (Меню и сообщения)
+Нет изменений
+
+Глава speech_maxwell (Реплики Максвелла)
+Нет изменений
+
+Глава speech_woodie (Реплики Вуди)
+Нет изменений
+
+Глава speech_wendy (Реплики Венди)
+Нет изменений
+
+Глава speech_wickerbottom (Реплики Уикерботтом)
+Нет изменений
+
+Глава speech_willow (Реплики Уиллоу)
+Нет изменений
+
+Глава speech_wilson (Реплики Уилсона)
+Нет изменений
+
+Глава speech_wolfgang (Реплики Вольфганга)
+Нет изменений
+
+Глава speech_wx78 (Реплики WX-78)
+Нет изменений
+
+Глава misc (Дополнительный текст)
+Нет изменений
+
+Глава names (Названия предметов)
+	STRINGS.NAMES.TURF_DESERTDIRT
+		po: Песочный дёрн
+		нота: Песчаный дёрн
+	STRINGS.NAMES.BONESHARD
+		po: Кусочки костей
+		нота: Обломки костей
+
+Глава actions (Игровые действия)
+Нет изменений
+
+Глава animalnames (Имена зверей)
+Нет изменений
+
+Глава animaltalks (Реплики зверей)
+Нет изменений
+
+Глава character (Описание персонажей)
+Нет изменений
+
+Глава lucy (Реплики топора Люси)
+Нет изменений
+
+Глава maxwell_misc (Дополнительные реплики Максвелла)
+Нет изменений
+
+Глава recipies (Описания рецептов)
+	STRINGS.RECIPE_DESC.COLDFIRE
+		po: This fire is from opposite day.
+		нота: Это огонь, только наоборот.
+	STRINGS.RECIPE_DESC.COLDFIREPIT
+		po: More efficient, but still backwards.
+		нота: Ещё эффективнее, и по прежнему наоборот.
+	STRINGS.RECIPE_DESC.FIRESUPPRESSOR
+		po: Saves plants, puts out fires, fueled by flame.
+		нота: Спасает растения, тушит огонь, питается пламенем.
+	STRINGS.RECIPE_DESC.FERTILIZER
+		po: Less poop on hands, more poop on plants.
+		нота: Больше удобрений - лучше для растений.
+	STRINGS.RECIPE_DESC.SIESTAHUT
+		po: Escape the heat to restore sanity.
+		нота: Прячься от зноя, держи голову в прохладе.
+	STRINGS.RECIPE_DESC.STRAWHAT
+		po: Такая модная!
+		нота: И круто и сухо!
+	STRINGS.RECIPE_DESC.SHOVEL
+		po: Идеально подходит для выкапывания растений.
+		нота: Выкапывать всякие разные штуки.
+	STRINGS.RECIPE_DESC.TRUNKVEST_SUMMER
+		po: Тёплый, но достаточно лёгкий для лета.
+		нота: Тепло, но те так, чтобы слишком.
+	STRINGS.RECIPE_DESC.RAINCOAT
+		po: A waterproof coat to keep you dry.
+		нота: Непромокаемый плащ гарантирует сухость.
+	STRINGS.RECIPE_DESC.RAINHAT
+		po: The colour yellow is waterproof!
+		нота: Этот жёлтый цвет отталкивает воду!
+	STRINGS.RECIPE_DESC.GRASS_UMBRELLA
+		po: Posh & portable protection.
+		нота: Шикарная переносная защита.
+	STRINGS.RECIPE_DESC.SPEAR_WATHGRITHR
+		po: The gold makes it sharper.
+		нота: Такое острое из-за золотого наконечника.
+	STRINGS.RECIPE_DESC.WATHGRITHRHAT
+		po: The unicorn is what protects you.
+		нота: Единорог - вот что защитит тебя.
+	STRINGS.RECIPE_DESC.MOLEHAT
+		po: Grants the wearer Smell-E-Vision.
+		нота: Наделяет носящего нюхозрением.
+	STRINGS.RECIPE_DESC.ICEHAT
+		po: Science, on the rocks.
+		нота: Наука, воплощённая в глыбе.
+	STRINGS.RECIPE_DESC.TRANSISTOR
+		po: Science away! Bzzzt!
+		нота: Покончим с наукой! Бз-з-зть!
+	STRINGS.RECIPE_DESC.WATERMELONHAT
+		po: Refreshing, but sticky.
+		нота: Освежает, правда липкая.
+	STRINGS.RECIPE_DESC.BELL
+		po: This isn't just any bell.
+		нота: Это не просто колокольчик.
